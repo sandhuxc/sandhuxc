@@ -1,15 +1,5 @@
 ### Hi there 👋
-
-**I'm Managing...**
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 9 different Projects
-- 💬 Chat with me at <a> Mail </a>
-
-
-
-<hr>
+I am Ali, an enthusiastic Software Engineer. I’ve been in the exciting domain of the coding for over 12 years, now. During this tenure, I have worked with several startups and larger co- operations. Working on different in-house and client-based projects helped me to broaden my vision about technology and development. Along this exciting journey, I realized my passion to create and develop new opportunities in this vast domain of computer science. To concrete my passion, I have now launched a startup, named as Amaruq. We welcome you to share your ideas and Weteck will help you to develop a new reality of innovative technology based on your idea/dream._
 
 ### 🧰 Languages & Tools
 
